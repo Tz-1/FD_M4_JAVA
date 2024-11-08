@@ -1,6 +1,6 @@
 /**
  * CRUD que se implementa a traves de la interface de IAlumno.
- *@param currentMat es la materia que se esta añadiendo
+ *@param currentMat es la materia que se esta añadiendo por el usuario
  */
 package servicios;
 
@@ -61,7 +61,7 @@ public class AlumnoServicio implements IAlumno{
 	}
 
 	/**
-	 * Metodo extra añadido para poder añadir notas a traves de las materias. Funciona por notas del sistema de educacion chileno.
+	 * Metodo extra añadido para poder añadir notas a traves de las materias. Funciona por notas del sistema de educacion chileno(1 a 7).
 	 */
 	@Override
 	public void agregarNota(String rutAlumno, Materia currentMat, double nota) {

@@ -1,3 +1,6 @@
+/**
+ * Interfaz para definir las operaciones CRUD sobre alumnos.
+ */
 package interfaces;
 
 import java.util.List;

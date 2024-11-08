@@ -1,7 +1,7 @@
 /**
- * @author Tz Tomas
- * @version 2.4
- * Clase donde el menu sobreescribe los metodos para la clase MenuTemplate. Aqui es donde se ejecuta todas las acciones del usuario.
+ * Clase donde el menú sobreescribe los métodos de la clase {@link MenuTemplate}.
+ * Aquí es donde se ejecutan todas las acciones del usuario para gestionar alumnos,
+ * materias y notas en la aplicación.
  */
 
 package vistas;

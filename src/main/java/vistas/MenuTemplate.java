@@ -1,7 +1,11 @@
 /**
+ * Clase base o plantilla para la implementación de un menú interactivo.
+ * Aca se definen los metodos abstractos que seran sobreescrito por la clase Menu.
+ * La iniciación del menú es la única funcionalidad completa en esta clase.
+ * 
+ * 
  * @author Tz Tomas
  * @version 2.4
- * Plantilla del menu, en donde la iniciacion de este es la unica que esta completada
  */
 
 package vistas;
